@@ -1,0 +1,54 @@
+.navi{
+  background-color: aquamarine
+}
+.image2{
+  float: right;
+}
+.p1{
+  display: inline-block;
+}
+.ch{
+  font-weight:  bold;
+  font-size: 40px
+}
+#article1{
+  width: 74%
+}
+#article2{
+  width: 74%
+}
+#article3{
+  width: 74%
+}
+#formm{
+  width: 100%;
+  display: inline-block;
+}
+.checkbox1{
+  margin: 60px;
+  float: left;
+}
+.checkbox2{
+  margin: 60px;
+
+  float: center;
+}
+
+
+#image8 {
+    position: relative;
+    left: 0px;
+    top: -250px;
+    z-index: -1;
+}
+#last{
+  float: center;;
+}
+.p10{
+  float:right;
+  text-align: start
+}
+.last_div{
+  float: bottom;
+  text-align: center
+}
